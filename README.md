@@ -1,5 +1,5 @@
 # Datageeks_Mini_project_2
-# XYZ Bank Term Deposit Marketing Analysis
+# Bank Term Deposit Marketing Analysis
  
 ## Introduction
  
